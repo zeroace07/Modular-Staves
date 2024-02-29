@@ -115,7 +115,7 @@ dependencies {
     implementation fg.deobf("curse.maven:mutil-351914:4824501")
 
     //Iron's spellbooks
-	implementation fg.deobf("curse.maven:irons-spells-n-spellbooks-855414:5141334")
+    implementation fg.deobf("curse.maven:irons-spells-n-spellbooks-855414:5141334")
 
 }
 
